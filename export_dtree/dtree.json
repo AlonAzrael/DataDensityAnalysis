@@ -1,0 +1,424 @@
+{
+  "index": 0, 
+  "right": {
+    "index": 26, 
+    "right": {
+      "index": 52, 
+      "impurity": 0.0, 
+      "leaf_flag": true, 
+      "feature": -2, 
+      "n_samples": 17, 
+      "threshold": -2.0
+    }, 
+    "impurity": 0.45078815840061515, 
+    "leaf_flag": false, 
+    "feature": 4, 
+    "n_samples": 102, 
+    "threshold": 5.8653874397277832, 
+    "left": {
+      "index": 27, 
+      "right": {
+        "index": 49, 
+        "right": {
+          "index": 51, 
+          "impurity": 0.0, 
+          "leaf_flag": true, 
+          "feature": -2, 
+          "n_samples": 2, 
+          "threshold": -2.0
+        }, 
+        "impurity": 0.34567901234567899, 
+        "leaf_flag": false, 
+        "feature": 3, 
+        "n_samples": 9, 
+        "threshold": 7.9456882476806641, 
+        "left": {
+          "index": 50, 
+          "impurity": 0.0, 
+          "leaf_flag": true, 
+          "feature": -2, 
+          "n_samples": 7, 
+          "threshold": -2.0
+        }
+      }, 
+      "impurity": 0.33384083044982704, 
+      "leaf_flag": false, 
+      "feature": 0, 
+      "n_samples": 85, 
+      "threshold": 6.6323614120483398, 
+      "left": {
+        "index": 28, 
+        "right": {
+          "index": 32, 
+          "right": {
+            "index": 46, 
+            "right": {
+              "index": 48, 
+              "impurity": 0.0, 
+              "leaf_flag": true, 
+              "feature": -2, 
+              "n_samples": 1, 
+              "threshold": -2.0
+            }, 
+            "impurity": 0.44444444444444442, 
+            "leaf_flag": false, 
+            "feature": 2, 
+            "n_samples": 3, 
+            "threshold": 11.509366989135742, 
+            "left": {
+              "index": 47, 
+              "impurity": 0.0, 
+              "leaf_flag": true, 
+              "feature": -2, 
+              "n_samples": 2, 
+              "threshold": -2.0
+            }
+          }, 
+          "impurity": 0.15673469387755101, 
+          "leaf_flag": false, 
+          "feature": 2, 
+          "n_samples": 70, 
+          "threshold": 11.326863288879395, 
+          "left": {
+            "index": 33, 
+            "right": {
+              "index": 45, 
+              "impurity": 0.0, 
+              "leaf_flag": true, 
+              "feature": -2, 
+              "n_samples": 43, 
+              "threshold": -2.0
+            }, 
+            "impurity": 0.11227444865226111, 
+            "leaf_flag": false, 
+            "feature": 2, 
+            "n_samples": 67, 
+            "threshold": 8.3373622894287109, 
+            "left": {
+              "index": 34, 
+              "right": {
+                "index": 44, 
+                "impurity": 0.0, 
+                "leaf_flag": true, 
+                "feature": -2, 
+                "n_samples": 1, 
+                "threshold": -2.0
+              }, 
+              "impurity": 0.27777777777777779, 
+              "leaf_flag": false, 
+              "feature": 2, 
+              "n_samples": 24, 
+              "threshold": 8.2703571319580078, 
+              "left": {
+                "index": 35, 
+                "right": {
+                  "index": 37, 
+                  "right": {
+                    "index": 43, 
+                    "impurity": 0.0, 
+                    "leaf_flag": true, 
+                    "feature": -2, 
+                    "n_samples": 6, 
+                    "threshold": -2.0
+                  }, 
+                  "impurity": 0.375, 
+                  "leaf_flag": false, 
+                  "feature": 3, 
+                  "n_samples": 12, 
+                  "threshold": 7.1618223190307617, 
+                  "left": {
+                    "index": 38, 
+                    "right": {
+                      "index": 42, 
+                      "impurity": 0.0, 
+                      "leaf_flag": true, 
+                      "feature": -2, 
+                      "n_samples": 2, 
+                      "threshold": -2.0
+                    }, 
+                    "impurity": 0.5, 
+                    "leaf_flag": false, 
+                    "feature": 3, 
+                    "n_samples": 6, 
+                    "threshold": 5.4029226303100586, 
+                    "left": {
+                      "index": 39, 
+                      "right": {
+                        "index": 41, 
+                        "impurity": 0.0, 
+                        "leaf_flag": true, 
+                        "feature": -2, 
+                        "n_samples": 3, 
+                        "threshold": -2.0
+                      }, 
+                      "impurity": 0.375, 
+                      "leaf_flag": false, 
+                      "feature": 4, 
+                      "n_samples": 4, 
+                      "threshold": 3.3698923587799072, 
+                      "left": {
+                        "index": 40, 
+                        "impurity": 0.0, 
+                        "leaf_flag": true, 
+                        "feature": -2, 
+                        "n_samples": 1, 
+                        "threshold": -2.0
+                      }
+                    }
+                  }
+                }, 
+                "impurity": 0.22684310018903586, 
+                "leaf_flag": false, 
+                "feature": 1, 
+                "n_samples": 23, 
+                "threshold": 9.1867618560791016, 
+                "left": {
+                  "index": 36, 
+                  "impurity": 0.0, 
+                  "leaf_flag": true, 
+                  "feature": -2, 
+                  "n_samples": 11, 
+                  "threshold": -2.0
+                }
+              }
+            }
+          }
+        }, 
+        "impurity": 0.24757617728531855, 
+        "leaf_flag": false, 
+        "feature": 2, 
+        "n_samples": 76, 
+        "threshold": 6.8553142547607422, 
+        "left": {
+          "index": 29, 
+          "right": {
+            "index": 31, 
+            "impurity": 0.0, 
+            "leaf_flag": true, 
+            "feature": -2, 
+            "n_samples": 1, 
+            "threshold": -2.0
+          }, 
+          "impurity": 0.27777777777777779, 
+          "leaf_flag": false, 
+          "feature": 3, 
+          "n_samples": 6, 
+          "threshold": 10.715582847595215, 
+          "left": {
+            "index": 30, 
+            "impurity": 0.0, 
+            "leaf_flag": true, 
+            "feature": -2, 
+            "n_samples": 5, 
+            "threshold": -2.0
+          }
+        }
+      }
+    }
+  }, 
+  "impurity": 0.49861495844875348, 
+  "leaf_flag": false, 
+  "feature": 1, 
+  "n_samples": 190, 
+  "threshold": 7.124760627746582, 
+  "left": {
+    "index": 1, 
+    "right": {
+      "index": 25, 
+      "impurity": 0.0, 
+      "leaf_flag": true, 
+      "feature": -2, 
+      "n_samples": 31, 
+      "threshold": -2.0
+    }, 
+    "impurity": 0.46875, 
+    "leaf_flag": false, 
+    "feature": 3, 
+    "n_samples": 88, 
+    "threshold": 3.788907527923584, 
+    "left": {
+      "index": 2, 
+      "right": {
+        "index": 4, 
+        "right": {
+          "index": 24, 
+          "impurity": 0.0, 
+          "leaf_flag": true, 
+          "feature": -2, 
+          "n_samples": 5, 
+          "threshold": -2.0
+        }, 
+        "impurity": 0.39111111111111108, 
+        "leaf_flag": false, 
+        "feature": 2, 
+        "n_samples": 45, 
+        "threshold": 9.056187629699707, 
+        "left": {
+          "index": 5, 
+          "right": {
+            "index": 7, 
+            "right": {
+              "index": 23, 
+              "impurity": 0.0, 
+              "leaf_flag": true, 
+              "feature": -2, 
+              "n_samples": 1, 
+              "threshold": -2.0
+            }, 
+            "impurity": 0.22853185595567871, 
+            "leaf_flag": false, 
+            "feature": 1, 
+            "n_samples": 38, 
+            "threshold": 6.3960428237915039, 
+            "left": {
+              "index": 8, 
+              "right": {
+                "index": 14, 
+                "right": {
+                  "index": 16, 
+                  "right": {
+                    "index": 22, 
+                    "impurity": 0.0, 
+                    "leaf_flag": true, 
+                    "feature": -2, 
+                    "n_samples": 1, 
+                    "threshold": -2.0
+                  }, 
+                  "impurity": 0.375, 
+                  "leaf_flag": false, 
+                  "feature": 0, 
+                  "n_samples": 8, 
+                  "threshold": 8.0145759582519531, 
+                  "left": {
+                    "index": 17, 
+                    "right": {
+                      "index": 21, 
+                      "impurity": 0.0, 
+                      "leaf_flag": true, 
+                      "feature": -2, 
+                      "n_samples": 5, 
+                      "threshold": -2.0
+                    }, 
+                    "impurity": 0.24489795918367352, 
+                    "leaf_flag": false, 
+                    "feature": 0, 
+                    "n_samples": 7, 
+                    "threshold": 6.5422611236572266, 
+                    "left": {
+                      "index": 18, 
+                      "right": {
+                        "index": 20, 
+                        "impurity": 0.0, 
+                        "leaf_flag": true, 
+                        "feature": -2, 
+                        "n_samples": 1, 
+                        "threshold": -2.0
+                      }, 
+                      "impurity": 0.5, 
+                      "leaf_flag": false, 
+                      "feature": 4, 
+                      "n_samples": 2, 
+                      "threshold": 8.4583034515380859, 
+                      "left": {
+                        "index": 19, 
+                        "impurity": 0.0, 
+                        "leaf_flag": true, 
+                        "feature": -2, 
+                        "n_samples": 1, 
+                        "threshold": -2.0
+                      }
+                    }
+                  }
+                }, 
+                "impurity": 0.44444444444444442, 
+                "leaf_flag": false, 
+                "feature": 1, 
+                "n_samples": 9, 
+                "threshold": 2.0300488471984863, 
+                "left": {
+                  "index": 15, 
+                  "impurity": 0.0, 
+                  "leaf_flag": true, 
+                  "feature": -2, 
+                  "n_samples": 1, 
+                  "threshold": -2.0
+                }
+              }, 
+              "impurity": 0.19284149013878749, 
+              "leaf_flag": false, 
+              "feature": 4, 
+              "n_samples": 37, 
+              "threshold": 8.0259561538696289, 
+              "left": {
+                "index": 9, 
+                "right": {
+                  "index": 11, 
+                  "right": {
+                    "index": 13, 
+                    "impurity": 0.0, 
+                    "leaf_flag": true, 
+                    "feature": -2, 
+                    "n_samples": 3, 
+                    "threshold": -2.0
+                  }, 
+                  "impurity": 0.375, 
+                  "leaf_flag": false, 
+                  "feature": 4, 
+                  "n_samples": 4, 
+                  "threshold": 6.5571384429931641, 
+                  "left": {
+                    "index": 12, 
+                    "impurity": 0.0, 
+                    "leaf_flag": true, 
+                    "feature": -2, 
+                    "n_samples": 1, 
+                    "threshold": -2.0
+                  }
+                }, 
+                "impurity": 0.068877551020408156, 
+                "leaf_flag": false, 
+                "feature": 1, 
+                "n_samples": 28, 
+                "threshold": 4.8631267547607422, 
+                "left": {
+                  "index": 10, 
+                  "impurity": 0.0, 
+                  "leaf_flag": true, 
+                  "feature": -2, 
+                  "n_samples": 24, 
+                  "threshold": -2.0
+                }
+              }
+            }
+          }, 
+          "impurity": 0.28874999999999995, 
+          "leaf_flag": false, 
+          "feature": 0, 
+          "n_samples": 40, 
+          "threshold": 3.3948097229003906, 
+          "left": {
+            "index": 6, 
+            "impurity": 0.0, 
+            "leaf_flag": true, 
+            "feature": -2, 
+            "n_samples": 2, 
+            "threshold": -2.0
+          }
+        }
+      }, 
+      "impurity": 0.48753462603878117, 
+      "leaf_flag": false, 
+      "feature": 4, 
+      "n_samples": 57, 
+      "threshold": 5.1700515747070312, 
+      "left": {
+        "index": 3, 
+        "impurity": 0.0, 
+        "leaf_flag": true, 
+        "feature": -2, 
+        "n_samples": 12, 
+        "threshold": -2.0
+      }
+    }
+  }
+}
